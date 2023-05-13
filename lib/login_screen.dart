@@ -23,7 +23,7 @@ class LoginScreen extends StatelessWidget {
                 ),
               ),
               onPressed: () {},
-              child: Text(
+              child: const Text(
                 'Sign in With Apple',
                 style: TextStyle(
                   fontSize: 16,
